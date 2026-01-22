@@ -20,7 +20,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://aplica-frontend.onrender.com" // frontend render URL
+      "https://aplica-eight.vercel.app"
     ],
     credentials: true
   })
